@@ -1,6 +1,8 @@
 # simple-remote-file-system-service
 
-Language    : Node.js<br><br>
+Client : Not-Yet<br><br>
+Server : Node.js<br><br>
+DataBase : Not-Yet<br><br>
 Tool        : WebStorm(version 2017.2.3)<br><br>
 Description : Multiple clients can be connected to Node.js based server at the same time, allowing independent operation on a common file system. Among the existing Linux file system commands, this program supports below commands.
 1. ls
