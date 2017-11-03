@@ -3,13 +3,13 @@
 Language    : Node.js<br><br>
 Tool        : WebStorm(version 2017.2.3)<br><br>
 Description : Multiple clients can be connected to Node.js based server at the same time, <br>
-              allowing independent operation on a common file system.<br>
-              Among the existing Linux file system commands, this program supports below commands.<br>
-              1. ls<br>
-              2. cd<br>
-              3. read<br>
-              4. write<br>
-              5. mkdir<br><br>
+                            allowing independent operation on a common file system.<br>
+                            Among the existing Linux file system commands, this program supports below commands.<br>
+                            1. ls<br>
+                            2. cd<br>
+                            3. read<br>
+                            4. write<br>
+                            5. mkdir<br><br>
 Scenario    :
 1. Run the 'server.js' file using node.
 2. Run the 'client.js' file using node and then you can use remote file system service provided 'server.js'.
